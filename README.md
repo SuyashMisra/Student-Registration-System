@@ -14,3 +14,8 @@ A java application built to manage student details at an institution. The applic
 4. The collation for admin_table fields are set to latin1_bin to support case sensitivity.
 
 ## Database Structure
+### Admin Table Structure
+![](images/admin_table_structure.png)
+
+### Student Table Structure
+![](images/student_table_structure.png)
