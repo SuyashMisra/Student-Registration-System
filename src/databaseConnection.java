@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 public class databaseConnection {
     
     final static String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    final static String DB_URL = "jdbc:mysql://localhost:3307/student_registration?useTimezone=true&serverTimezone=UTC";
+    final static String DB_URL = "jdbc:mysql://localhost:3306/student_registration?useTimezone=true&serverTimezone=UTC";
     final static String USER = "root";
     final static String PASS = "";
     
